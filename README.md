@@ -11,3 +11,9 @@ Objetivo:  incorporar ao meu primeiro trabalho de jovem aprendiz
 
 1° grau  concluiodo / 2° grau  incompleto 
 cursando T.I no senai 
+
+Banco de Dados: https://github.com/joaoozada/Portif-lioTecnico3C/tree/main/banco_de_dados
+
+Desenvolvimento de Sistemas: 
+
+Programação de Aplicativos: 
