@@ -14,6 +14,6 @@ cursando T.I no senai
 
 Banco de Dados: https://github.com/joaoozada/Portif-lioTecnico3C/tree/main/banco_de_dados
 
-Desenvolvimento de Sistemas: 
+Desenvolvimento de Sistemas: https://github.com/joaoozada/Portif-lioTecnico3C/tree/main/desenvolvimento_de_sistemas/CassinoJorges
 
 Programação de Aplicativos: 
